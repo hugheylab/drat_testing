@@ -919,7 +919,7 @@ Imports: data.table (>= 1.12.2), foreach (>= 1.5.0), lomb (>= 2.0)
 Suggests: doParallel (>= 1.0.15), knitr, qs (>= 0.24.1), rmarkdown,
         testthat (>= 3.0.3)
 License: GPL-2
-MD5sum: e1835e6775474d737b60e2edfffba31e
+MD5sum: 68821deb31164c321b201119e1e02870
 NeedsCompilation: no
 
 Package: tipa
